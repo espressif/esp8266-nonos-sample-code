@@ -19,7 +19,7 @@ Test ESP8266 chip current under light sleep mode by forcing. ESP8266 will do lig
 
 	Download address of each bin files
 	blank.bin						0xFE000
-	esp_init_data_default.bin		0x1FC000
+	esp_init_data_default.bin		0xFC000
 	boot_v1.6.bin					0x00000
 	user1.2048.new.2.bin			0x01000
 	
